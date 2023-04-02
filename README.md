@@ -6,7 +6,7 @@ v18.10.0
 npm -v
 8.19.2
 
-npx create-react-app 01_lesson
+npx create-react-app redux-exercise-1
 
 npm install @reduxjs/toolkit react-redux
 
